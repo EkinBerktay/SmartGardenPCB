@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "neo_6m_footpring")(type "KiCad")(uri "${KIPRJMOD}/SmartGarden.pretty/neo_6m_footpring.pretty")(options "")(descr ""))
+)

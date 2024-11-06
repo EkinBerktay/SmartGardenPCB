@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "Smart_Garden-eagle-import")(type "KiCad")(uri "${KIPRJMOD}/Smart_Garden-eagle-import.kicad_sym")(options "")(descr ""))
+  (lib (name "JST-PH-4-Pin")(type "KiCad")(uri "${KIPRJMOD}/JST-PH-4-Pin.kicad_sym")(options "")(descr ""))
+  (lib (name "NEO-6M-Module")(type "KiCad")(uri "${KIPRJMOD}/NEO-6M-Module.kicad_sym")(options "")(descr ""))
+)
